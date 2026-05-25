@@ -17,7 +17,6 @@ To fully exploit the potential of augmentations, we further apply the same strat
 Notably, SE can also act as a lightweight optimization-free TTA method.
 Extensive experiments across multiple datasets demonstrate that SE and USE outperform their counterparts, respectively.
 Furthermore, SE yields consistent performance gains when integrated with existing TTA methods.
-> 🌟 **Note on Terminology "Unified":** As mentioned by the anonymous reviewer, to avoid any ambiguity, we unify the optimization and inference stages into a single framework, ensuring consistency between them.
 
 ## 📂 Data Preparation
 
