@@ -1,0 +1,39 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (large)
+*.pth
+*.pt
+*.pkl
+*.tar
+*.tar.gz
+*.zip
+
+# Logs
+*.log
+
+# Environment
+.env
